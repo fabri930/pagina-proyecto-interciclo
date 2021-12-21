@@ -1,0 +1,166 @@
+
+
+body{
+    background-color: rgb(199, 7, 33);
+}
+
+
+.t1:hover{
+color: blue;
+
+}
+
+
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px orange;
+}
+
+.img2{
+
+    float:right;
+
+}
+
+p{
+   font-family: Impact;
+   color: orange;
+   font-size: 25px;
+  display: flex;
+  justify-content: center;
+  border: solid 2px orange;
+  text-align: center;
+}
+
+
+h1{ 
+
+    font-family: Impact;
+}
+h1{ 
+    color: orange;
+}
+
+h1{ 
+
+    font-size: 20px;
+}
+
+h2{
+
+    font-family: "Impact";
+    
+}
+ h2{
+    color: orange;
+
+  }
+h2{ 
+  display: flex;
+  justify-content: center;
+}
+h2{ 
+
+    font-size: 70px;
+}
+
+
+.boton1{
+         text-decoration: none;
+         border: solid 2px orange;
+         background-color: orange;
+         color: blue;
+         padding: 10px 15px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         font-size: 20px;
+
+}
+
+.boton1:hover{
+               background-color: blue;
+               color: orange;
+               font-size: larger;
+
+}
+
+
+.boton1{
+    
+        display: flex; /* or display:grid */
+        justify-content: center;
+      
+}
+
+
+.boton1{
+    padding: 20px;
+     width: 15%;
+    margin: 9px;
+
+}
+
+.boton2{
+    text-decoration: none;
+    border: solid 2px orange;
+    background-color: orange;
+    color: blue;
+    padding: 10px 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+}
+
+.boton2:hover{
+    background-color: blue;
+    color: orange;
+    font-size: larger;
+}
+
+.boton2{
+    display: flex; /* or display:grid */
+        justify-content: center;
+      
+}
+
+.boton2{
+    padding: 20px;
+    width: 15%;
+   margin: 9px;
+
+}
+
+.boton3{
+    text-decoration: none;
+    border: solid 2px orange;
+    background-color: orange;
+    color: blue;
+    padding: 10px 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+}
+
+.boton3:hover{
+    background-color: blue;
+    color: orange;
+    font-size: larger;
+}
+.boton3{
+    display: flex; /* or display:grid */
+        justify-content: center;
+      
+}
+
+.boton3{
+    padding: 20px;
+    width: 15%;
+   margin: 9px;
+}
+
+.botones{
+
+display: flex;
+justify-content: center;
+}

@@ -1,0 +1,128 @@
+body{
+    background-color:rgb(199, 7, 33)
+   }
+   
+   h1{
+   
+       font-family: Impact;
+       color: orange;
+       font-size: 50px;
+       display: flex;
+       justify-content: center;
+   }
+   .t1:hover{
+       color: blue;
+   }
+   
+   h2{
+       font-family: Impact;
+       color: orange;
+       font-size: 35px;
+       display: flex;
+       justify-content: center;
+   }
+   
+   .img1{
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       border: solid 2px orange;
+   }
+   
+   .p1{
+       font-family: Impact;
+       color: orange;
+       font-size: 25px;
+      display: flex;
+      justify-content: center;
+      border: solid 2px orange;
+      text-align: center;
+   }
+   
+   h3{
+       font-family: Impact;
+       color: orange;
+       font-size: 40px;
+       display: flex;
+       justify-content: center;
+   
+   }
+   .img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px orange;
+
+   }
+.p2{
+
+    font-family: Impact;
+    color: orange;
+    font-size: 25px;
+   display: flex;
+   justify-content: center;
+   border: solid 2px orange;
+   text-align: center;
+}
+
+h4{
+    font-family: Impact;
+    color: orange;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+ .img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px orange;
+
+ }
+
+
+.p3{
+    font-family: Impact;
+    color: orange;
+    font-size: 25px;
+   display: flex;
+   justify-content: center;
+   border: solid 2px orange;
+   text-align: center;
+
+}
+
+.boton1{
+    text-decoration: none;
+    border: solid 2px orange;
+    background-color: orange;
+    color: blue;
+    padding: 10px 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.boton1:hover{
+    background-color: blue;
+    color: orange;
+    font-size: larger;
+}
+.boton1{
+    display: flex; /* or display:grid */
+        justify-content: center;
+      
+}
+
+.boton1{
+    padding: 20px;
+    width: 15%;
+   margin: 9px;
+
+}
+
+.boton{
+
+    display: flex;
+justify-content: center;
+}
+
+

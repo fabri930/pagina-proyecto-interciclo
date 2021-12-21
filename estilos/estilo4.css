@@ -1,0 +1,59 @@
+body{
+    background-color:rgb(199, 7, 33)
+   }
+   h1{
+   
+    font-family: Impact;
+    color: orange;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+.t1:hover{
+    color: blue;
+}
+
+table, td, th{
+    font-family: Bookman Old Style;
+    color: orange;
+    font-size: 25px;
+    border: 1px solid orange;
+}
+
+.tabla1:hover{
+
+    background-color: blue;
+    color: orange;
+}
+.boton1{
+    text-decoration: none;
+    border: solid 2px orange;
+    background-color: orange;
+    color: blue;
+    padding: 10px 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.boton1:hover{
+    background-color: blue;
+    color: orange;
+    font-size: larger;
+}
+.boton1{
+    display: flex; /* or display:grid */
+        justify-content: center;
+      
+}
+
+.boton1{
+    padding: 20px;
+    width: 15%;
+   margin: 9px;
+
+}
+
+.boton{
+
+    display: flex;
+justify-content: center;
+}
